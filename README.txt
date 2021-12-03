@@ -21,7 +21,7 @@ mvi/clean : Clean multi-view images (Bicycle)
 -----------------------------------------------------------------------------
 
 1) Make directories 'mvi/noisy' and 'mvi/denoised'.
-2) Run 'python3 mviden.py' generates the following images.
+2) Running 'python3 mviden.py' generates the following images.
 
     -- mvi/noisy/sai_**_**.png (noisy multi-view images)
     -- mvi/denoised/sai_**_**.png (denoised multi-view images)
